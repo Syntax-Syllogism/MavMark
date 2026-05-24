@@ -1,0 +1,31 @@
+# MK // Kanban Specific
+mk
+mk.exe
+.kanban/
+
+# GoReleaser
+dist/
+
+# Go
+/vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+notes/
+.history/
+*.swp
+*.swo
+
+# Private agent/tooling
+.agents/
+.claude/
+.codex/
+.rtk/
+CLAUDE.md
+AGENTS.md
+bin/
