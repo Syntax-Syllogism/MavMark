@@ -9,19 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Epic filtering
-- Connection loss feedback
-- ESC key support
-- Strict path validation
-- Header and list styling
-- Additional markdown support
-- Version flag
-- Build metadata
-
-## [0.1.0] - 2026-05-23
-
-### Added
-
 - Version flag and build metadata
 - Epic filtering
 - Connection loss feedback
